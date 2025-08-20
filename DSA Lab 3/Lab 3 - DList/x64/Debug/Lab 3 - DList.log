@@ -1,0 +1,52 @@
+﻿  TestHarness.cpp
+  UnitTests_Lab3.cpp
+C:\FSO ClassWork\Data Structures and Algorithms\DSA Lab 3\Lab 3 - DList\DList.h(220,37): error C3878: syntax error: unexpected token 'iter' following 'expression'
+  (compiling source file 'TestFiles/TestHarness.cpp')
+      C:\FSO ClassWork\Data Structures and Algorithms\DSA Lab 3\Lab 3 - DList\DList.h(220,37):
+      the template instantiation context (the oldest one first) is
+          C:\FSO ClassWork\Data Structures and Algorithms\DSA Lab 3\Lab 3 - DList\DList.h(63,7):
+          while compiling class template 'DList'
+  
+C:\FSO ClassWork\Data Structures and Algorithms\DSA Lab 3\Lab 3 - DList\DList.h(220,58): error C2760: syntax error: ')' was unexpected here; expected ';'
+  (compiling source file 'TestFiles/TestHarness.cpp')
+  
+C:\FSO ClassWork\Data Structures and Algorithms\DSA Lab 3\Lab 3 - DList\DList.h(220,61): error C2065: 'iter': undeclared identifier
+  (compiling source file 'TestFiles/TestHarness.cpp')
+  
+C:\FSO ClassWork\Data Structures and Algorithms\DSA Lab 3\Lab 3 - DList\DList.h(220,84): error C3878: syntax error: unexpected token ')' following 'expression-statement'
+  (compiling source file 'TestFiles/TestHarness.cpp')
+  
+C:\FSO ClassWork\Data Structures and Algorithms\DSA Lab 3\Lab 3 - DList\DList.h(222,11): error C2065: 'iter': undeclared identifier
+  (compiling source file 'TestFiles/TestHarness.cpp')
+  
+C:\FSO ClassWork\Data Structures and Algorithms\DSA Lab 3\Lab 3 - DList\DList.h(222,17): error C2065: 'iter': undeclared identifier
+  (compiling source file 'TestFiles/TestHarness.cpp')
+  
+C:\FSO ClassWork\Data Structures and Algorithms\DSA Lab 3\Lab 3 - DList\DList.h(223,4): error C2065: 'iter': undeclared identifier
+  (compiling source file 'TestFiles/TestHarness.cpp')
+  
+C:\FSO ClassWork\Data Structures and Algorithms\DSA Lab 3\Lab 3 - DList\DList.h(220,37): error C3878: syntax error: unexpected token 'iter' following 'expression'
+  (compiling source file 'TestFiles/UnitTests_Lab3.cpp')
+      C:\FSO ClassWork\Data Structures and Algorithms\DSA Lab 3\Lab 3 - DList\DList.h(220,37):
+      the template instantiation context (the oldest one first) is
+          C:\FSO ClassWork\Data Structures and Algorithms\DSA Lab 3\Lab 3 - DList\DList.h(63,7):
+          while compiling class template 'DList'
+  
+C:\FSO ClassWork\Data Structures and Algorithms\DSA Lab 3\Lab 3 - DList\DList.h(220,58): error C2760: syntax error: ')' was unexpected here; expected ';'
+  (compiling source file 'TestFiles/UnitTests_Lab3.cpp')
+  
+C:\FSO ClassWork\Data Structures and Algorithms\DSA Lab 3\Lab 3 - DList\DList.h(220,61): error C2065: 'iter': undeclared identifier
+  (compiling source file 'TestFiles/UnitTests_Lab3.cpp')
+  
+C:\FSO ClassWork\Data Structures and Algorithms\DSA Lab 3\Lab 3 - DList\DList.h(220,84): error C3878: syntax error: unexpected token ')' following 'expression-statement'
+  (compiling source file 'TestFiles/UnitTests_Lab3.cpp')
+  
+C:\FSO ClassWork\Data Structures and Algorithms\DSA Lab 3\Lab 3 - DList\DList.h(222,11): error C2065: 'iter': undeclared identifier
+  (compiling source file 'TestFiles/UnitTests_Lab3.cpp')
+  
+C:\FSO ClassWork\Data Structures and Algorithms\DSA Lab 3\Lab 3 - DList\DList.h(222,17): error C2065: 'iter': undeclared identifier
+  (compiling source file 'TestFiles/UnitTests_Lab3.cpp')
+  
+C:\FSO ClassWork\Data Structures and Algorithms\DSA Lab 3\Lab 3 - DList\DList.h(223,4): error C2065: 'iter': undeclared identifier
+  (compiling source file 'TestFiles/UnitTests_Lab3.cpp')
+  
