@@ -1,0 +1,9 @@
+﻿  TestHarness.cpp
+  UnitTests_Lab2.cpp
+C:\FSO ClassWork\Data Structures and Algorithms\DSA Lab 2\Lab 2 - vector\Lab2.h(135,19): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file 'TestFiles/TestHarness.cpp')
+  
+C:\FSO ClassWork\Data Structures and Algorithms\DSA Lab 2\Lab 2 - vector\Lab2.h(135,19): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file 'TestFiles/UnitTests_Lab2.cpp')
+  
+  Lab 2 - vector.vcxproj -> C:\FSO ClassWork\Data Structures and Algorithms\DSA Lab 2\x64\Debug\Lab 2 - vector.exe
