@@ -1,0 +1,10 @@
+﻿  TestHarness.cpp
+  UnitTests_Lab4.cpp
+C:\FSO ClassWork\Data Structures and Algorithms\DSA Lab 4\Lab 4 - list\Lab4.h(162,40): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'TestFiles/UnitTests_Lab4.cpp')
+  
+C:\FSO ClassWork\Data Structures and Algorithms\DSA Lab 4\Lab 4 - list\Lab4.h(162,40): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'TestFiles/TestHarness.cpp')
+  
+C:\FSO ClassWork\Data Structures and Algorithms\DSA Lab 4\Lab 4 - list\Lab4.h(210,1): warning C4715: 'DSA_Lab4::RemoveDecimalGreater': not all control paths return a value
+  Lab 4 - list.vcxproj -> C:\FSO ClassWork\Data Structures and Algorithms\DSA Lab 4\x64\Debug\Lab 4 - list.exe
